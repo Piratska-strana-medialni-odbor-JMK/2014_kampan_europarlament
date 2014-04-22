@@ -33,9 +33,9 @@ eu14kb
 #3,7m x 1,07m
 #eu14ll
 
-banner Lanškroun, Janáèkova:
-3,5m x 1m
-eu14lj
+#banner Lanškroun, Janáèkova:
+#3,5m x 1m
+#eu14lj
 
 #banner Lanškroun, námìstí Jana Marka Markù:
 #3m x 1m
