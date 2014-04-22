@@ -29,9 +29,9 @@ eu14kb
 #1,58m x 0,92m
 #eu14mn
 
-banner Lanökroun, Lidick·:
-3,7m x 1,07m
-eu14ll
+#banner Lanökroun, Lidick·:
+#3,7m x 1,07m
+#eu14ll
 
 banner Lanökroun, Jan·Ëkova:
 3,5m x 1m
